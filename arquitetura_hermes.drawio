@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0" version="28.2.5">
+  <diagram name="Page-1" id="yOaHwiHAIAsyNNTwTCBB">
+    <mxGraphModel dx="1166" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HY8lVW88zgnBFhKwhw-7-1" target="HY8lVW88zgnBFhKwhw-7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-17" value="Dados brutos (JSON via Serial)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HY8lVW88zgnBFhKwhw-7-6">
+          <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-1" value="Fonte de Dados: Sensor (ESP32 + Wokwi)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-2" value="Ingestão (Script de Coleta)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HY8lVW88zgnBFhKwhw-7-3" target="HY8lVW88zgnBFhKwhw-7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-23" value="Leitura dos dados para treino/inferência" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HY8lVW88zgnBFhKwhw-7-13">
+          <mxGeometry x="0.2058" relative="1" as="geometry">
+            <mxPoint x="-104" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HY8lVW88zgnBFhKwhw-7-3" target="HY8lVW88zgnBFhKwhw-7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-29" value="Consulta de dados para exibição" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HY8lVW88zgnBFhKwhw-7-28">
+          <mxGeometry x="0.3017" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-3" value="Armazenamento (Banco de Dados SQLite)" style="shape=cylinder3;whiteSpace=wrap;boundedLbl=1;backgroundOutline=1;size=15;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="58.75" width="100" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-4" value="Processamento (Modelo de ML)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-5" value="Visualização (Dashboard Streamlit)" style="rounded=0;gradientColor=none;align=center;fontStyle=0;fontSize=12;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HY8lVW88zgnBFhKwhw-7-2" target="HY8lVW88zgnBFhKwhw-7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HY8lVW88zgnBFhKwhw-7-22" value="Carga em lote (Script Python inserindo em .db)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HY8lVW88zgnBFhKwhw-7-12">
+          <mxGeometry x="-0.0524" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

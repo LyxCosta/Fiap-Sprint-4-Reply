@@ -1,0 +1,43 @@
+DHT22
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1156
+load:0x40078000,len:11456
+ho 0 tail 12 room 4
+load:0x40080400,len:2972
+entry 0x400805dc
+Iniciando o monitoramento do motor...
+{"timestamp": "2339", "temperatura": 25.00, "umidade": 40.00}
+{"timestamp": "4346", "temperatura": 22.00, "umidade": 40.00}
+{"timestamp": "6353", "temperatura": 26.00, "umidade": 40.00}
+{"timestamp": "8360", "temperatura": 28.00, "umidade": 40.00}
+{"timestamp": "10367", "temperatura": 23.00, "umidade": 40.00}
+{"timestamp": "12374", "temperatura": 27.00, "umidade": 40.00}
+{"timestamp": "14381", "temperatura": 23.00, "umidade": 40.00}
+{"timestamp": "16388", "temperatura": 25.00, "umidade": 40.00}
+{"timestamp": "18395", "temperatura": 26.00, "umidade": 40.00}
+{"timestamp": "20402", "temperatura": 28.00, "umidade": 40.00}
+{"timestamp": "22409", "temperatura": 26.00, "umidade": 40.00}
+{"timestamp": "24416", "temperatura": 26.00, "umidade": 40.00}
+{"timestamp": "26423", "temperatura": 28.00, "umidade": 40.00}
+{"timestamp": "28430", "temperatura": 23.00, "umidade": 40.00}
+{"timestamp": "30437", "temperatura": 27.00, "umidade": 40.00}
+{"timestamp": "32444", "temperatura": 27.00, "umidade": 40.00}
+{"timestamp": "34451", "temperatura": 24.00, "umidade": 40.00}
+{"timestamp": "36458", "temperatura": 24.00, "umidade": 40.00}
+{"timestamp": "38465", "temperatura": 25.00, "umidade": 40.00}
+{"timestamp": "40472", "temperatura": 22.00, "umidade": 40.00}
+{"timestamp": "42479", "temperatura": 25.00, "umidade": 40.00}
+{"timestamp": "44486", "temperatura": 28.00, "umidade": 40.00}
+{"timestamp": "46493", "temperatura": 22.00, "umidade": 40.00}
+{"timestamp": "48500", "temperatura": 25.00, "umidade": 40.00}
+{"timestamp": "50507", "temperatura": 23.00, "umidade": 40.00}
+{"timestamp": "52514", "temperatura": 25.00, "umidade": 40.00}
+{"timestamp": "54521", "temperatura": 22.00, "umidade": 40.00}
+{"timestamp": "56528", "temperatura": 25.00, "umidade": 40.00}
+{"timestamp": "58535", "temperatura": 22.00, "umidade": 40.00}
+{"timestamp": "60542", "temperatura": 23.00, "umidade": 40.00}
