@@ -8,7 +8,7 @@
 * Mariana Cavalcante Oliveira - RM561678
 
 # Vídeo de Demonstração
-A demonstração completa do projeto em funcionamento está disponível no YouTube:
+A demonstração completa do projeto em funcionamento está disponível no YouTube: https://www.youtube.com/watch?v=zC_H8fla4bA
 
 ## Visão Geral
 Este projeto implementa um pipeline de dados, conforme solicitado pela Hermes Reply. O objetivo é simular o monitoramento de um motor industrial, coletando dados de sensores, armazenando-os, treinando um modelo de Machine Learning para detecção de anomalias e, por fim, exibindo os resultados em um dashboard interativo com um sistema de alertas em tempo real.
