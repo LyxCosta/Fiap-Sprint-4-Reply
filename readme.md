@@ -1,10 +1,10 @@
 # Projeto Final: Pipeline de Dados e ML para Monitoramento Industrial
 
 ## Integrantes
-* Luis Fernando dos Santos Costa - rm565285
-* Lucas Medeiros Leite - rm564892
-* Richard Seberino Marques - rm563313
-* Douglas de Souza Felipe - rm561335
+* Luis Fernando dos Santos Costa - RM565285
+* Lucas Medeiros Leite - RM564892
+* Richard Seberino Marques - RM563313
+* Douglas de Souza Felipe - RM561335
 * ...
 
 ## Visão Geral
