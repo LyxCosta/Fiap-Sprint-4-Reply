@@ -1,5 +1,5 @@
 -- Este script cria a tabela para armazenar as leituras dos sensores.
--- A instrução "IF NOT EXISTS" garante que não teremos um erro se o script rodar mais de uma vez.
+
 
 CREATE TABLE IF NOT EXISTS leituras_sensor (
     id INTEGER PRIMARY KEY AUTOINCREMENT, -- Chave primária: um número único para cada linha, gerado automaticamente.

@@ -2,7 +2,7 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Ler cada linha do arquivo e converter de JSON para um dicionário
+# Ler as linhas do arquivo e converter de JSON para um dicionário
 dados = []
 with open('dados_brutos.txt', 'r') as f:
     for linha in f:
