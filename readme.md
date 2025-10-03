@@ -21,7 +21,7 @@ O diagrama abaixo ilustra o fluxo completo de dados, desde a fonte simulada (ESP
 - Python 3.8+
 - Git
 
-**1. Clone o repositório:**
+**Clone o repositório:**
 ```bash
 git clone https://github.com/LyxCosta/Fiap-Sprint-4-Reply
 cd [C:\Users\Luisr\OneDrive\Documents\Fiap Trabalhos\Fiap-Sprint-4-Reply]

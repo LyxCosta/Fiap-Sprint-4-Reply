@@ -25,6 +25,6 @@ plt.title('Leituras de Temperatura do Sensor')
 plt.xlabel('Ordem da Leitura')
 plt.ylabel('Temperatura (°C)')
 plt.grid(True)
-plt.savefig('grafico_inicial.png') # Salva o gráfico como imagem
+plt.savefig('grafico_inicial.png') 
 plt.show()
 print("Gráfico inicial salvo como grafico_inicial.png")
