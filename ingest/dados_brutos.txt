@@ -32,12 +32,12 @@ Iniciando o monitoramento do motor...
 {"timestamp": "38465", "temperatura": 25.00, "umidade": 40.00}
 {"timestamp": "40472", "temperatura": 22.00, "umidade": 40.00}
 {"timestamp": "42479", "temperatura": 25.00, "umidade": 40.00}
-{"timestamp": "44486", "temperatura": 28.00, "umidade": 40.00}
+{"timestamp": "44486", "temperatura": 43.00, "umidade": 40.00}
 {"timestamp": "46493", "temperatura": 22.00, "umidade": 40.00}
 {"timestamp": "48500", "temperatura": 25.00, "umidade": 40.00}
 {"timestamp": "50507", "temperatura": 23.00, "umidade": 40.00}
 {"timestamp": "52514", "temperatura": 25.00, "umidade": 40.00}
 {"timestamp": "54521", "temperatura": 22.00, "umidade": 40.00}
-{"timestamp": "56528", "temperatura": 25.00, "umidade": 40.00}
-{"timestamp": "58535", "temperatura": 22.00, "umidade": 40.00}
-{"timestamp": "60542", "temperatura": 23.00, "umidade": 40.00}
+{"timestamp": "56528", "temperatura": 28.00, "umidade": 40.00}
+{"timestamp": "58535", "temperatura": 41.00, "umidade": 40.00}
+{"timestamp": "60542", "temperatura": 45.00, "umidade": 40.00}
